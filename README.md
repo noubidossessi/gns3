@@ -5,3 +5,5 @@ http://rednectar.net/2014/08/18/how-to-install-gns3-v1-0-beta-on-ubuntulinux-min
 
 Instead of using it's script use this one to be able to use wireshark to sniff
 packets between two directly connected qemu emulated routers.
+
+You can get the modified script from https://github.com/slashrod/gns3/blob/master/installGNS3v1.sh
